@@ -118,6 +118,7 @@ $(document).ready(function () {
   });
 
 });
+
 function addOne() {
   var currentOneScore = parseInt($('.playerOne').text());
   var b = 1;
